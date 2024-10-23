@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781804493804",
+    "project_id": "deloitteapp-358ea",
+    "storage_bucket": "deloitteapp-358ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781804493804:android:f19f8456b4b97f1cc07ec9",
+        "android_client_info": {
+          "package_name": "com.beauty.beauty_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781804493804-tk3im47vtcvvpeh4hbgs3c8lhd17lh0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beauty.beauty_tracking",
+            "certificate_hash": "70843a11af6ad91a6fd0683d7627beaef7185de6"
+          }
+        },
+        {
+          "client_id": "781804493804-aeih6crhnnqatp6bfppv8f4nq88galuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTdvzAZ2LcncuH29pyq5JLtSQHh5Is9JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781804493804-aeih6crhnnqatp6bfppv8f4nq88galuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
